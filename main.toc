@@ -1,0 +1,28 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\numberline {1}Введение}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Вступление}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Термины и определения}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Перечень сокращений и обозначений}{3}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Постановка задачи}{4}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Обзор существующих решений}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Открытое программное обеспечения для работы с РЛИ уровня SLC}{6}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}SNAP}{7}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}SARscape}{7}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}GMTSAR}{7}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}SARPROZ}{7}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}StaMPS/MTI}{7}{subsection.3.1.5}%
+\contentsline {section}{\numberline {3.2}Выводы}{7}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Исследование и построение решения задачи}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Показатели качества РЛИ}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Модель формирования псевдоточечных целей}{10}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Алгоритм поиска псевдоточечных целей на РЛИ}{13}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Выделение информативных участков изображения}{13}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Свёрточная матрица на основе автокорреляционной функции изображения}{14}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Алгоритм поиска псевдоточечных целей}{14}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Алгоритм анализа отклика от псевдоточечных целей}{15}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Алгоритм автоматического поиска и анализа псевдоточечных целей}{16}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Описание практической части}{19}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Калибровка алгоритма}{19}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Верификация алгоритма}{19}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Валидация алгоритма}{19}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Заключение}{22}{chapter.6}%
